@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WorkSpaceAD\\YOUTUBE\\124 NET 8 WEB API JWT Y ANGULAR 17 AUTHORIZACION\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{328752A7-C957-4E10-BCF0-C95F8716C1D7}|WebAPI\\WebAPI.csproj|e:\\workspacead\\youtube\\124 net 8 web api jwt y angular 17 authorizacion\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328752A7-C957-4E10-BCF0-C95F8716C1D7}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328752A7-C957-4E10-BCF0-C95F8716C1D7}|WebAPI\\WebAPI.csproj|e:\\workspacead\\youtube\\124 net 8 web api jwt y angular 17 authorizacion\\webapi\\webapi\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328752A7-C957-4E10-BCF0-C95F8716C1D7}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328752A7-C957-4E10-BCF0-C95F8716C1D7}|WebAPI\\WebAPI.csproj|e:\\workspacead\\youtube\\124 net 8 web api jwt y angular 17 authorizacion\\webapi\\webapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328752A7-C957-4E10-BCF0-C95F8716C1D7}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328752A7-C957-4E10-BCF0-C95F8716C1D7}|WebAPI\\WebAPI.csproj|e:\\workspacead\\youtube\\124 net 8 web api jwt y angular 17 authorizacion\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{328752A7-C957-4E10-BCF0-C95F8716C1D7}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328752A7-C957-4E10-BCF0-C95F8716C1D7}|WebAPI\\WebAPI.csproj|e:\\workspacead\\youtube\\124 net 8 web api jwt y angular 17 authorizacion\\webapi\\webapi\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328752A7-C957-4E10-BCF0-C95F8716C1D7}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328752A7-C957-4E10-BCF0-C95F8716C1D7}|WebAPI\\WebAPI.csproj|e:\\workspacead\\youtube\\124 net 8 web api jwt y angular 17 authorizacion\\webapi\\webapi\\models\\dbpruebacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328752A7-C957-4E10-BCF0-C95F8716C1D7}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\dbpruebacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "E:\\WorkSpaceAD\\YOUTUBE\\124 NET 8 WEB API JWT Y ANGULAR 17 AUTHORIZACION\\WebAPI\\WebAPI\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProductoController.cs",
+              "ToolTip": "E:\\WorkSpaceAD\\YOUTUBE\\124 NET 8 WEB API JWT Y ANGULAR 17 AUTHORIZACION\\WebAPI\\WebAPI\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:47:09.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "E:\\WorkSpaceAD\\YOUTUBE\\124 NET 8 WEB API JWT Y ANGULAR 17 AUTHORIZACION\\WebAPI\\WebAPI\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AccesoController.cs",
+              "ToolTip": "E:\\WorkSpaceAD\\YOUTUBE\\124 NET 8 WEB API JWT Y ANGULAR 17 AUTHORIZACION\\WebAPI\\WebAPI\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AccesoController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAiwDEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:38:16.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "E:\\WorkSpaceAD\\YOUTUBE\\124 NET 8 WEB API JWT Y ANGULAR 17 AUTHORIZACION\\WebAPI\\WebAPI\\Custom\\Utilidades.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Custom\\Utilidades.cs",
+              "ToolTip": "E:\\WorkSpaceAD\\YOUTUBE\\124 NET 8 WEB API JWT Y ANGULAR 17 AUTHORIZACION\\WebAPI\\WebAPI\\Custom\\Utilidades.cs",
+              "RelativeToolTip": "WebAPI\\Custom\\Utilidades.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwCYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:15:54.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WorkSpaceAD\\YOUTUBE\\124 NET 8 WEB API JWT Y ANGULAR 17 AUTHORIZACION\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "E:\\WorkSpaceAD\\YOUTUBE\\124 NET 8 WEB API JWT Y ANGULAR 17 AUTHORIZACION\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswDsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:10:41.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbpruebaContext.cs",
+              "DocumentMoniker": "E:\\WorkSpaceAD\\YOUTUBE\\124 NET 8 WEB API JWT Y ANGULAR 17 AUTHORIZACION\\WebAPI\\WebAPI\\Models\\DbpruebaContext.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\DbpruebaContext.cs",
+              "ToolTip": "E:\\WorkSpaceAD\\YOUTUBE\\124 NET 8 WEB API JWT Y ANGULAR 17 AUTHORIZACION\\WebAPI\\WebAPI\\Models\\DbpruebaContext.cs",
+              "RelativeToolTip": "WebAPI\\Models\\DbpruebaContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA2wBUAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:07:38.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\WorkSpaceAD\\YOUTUBE\\124 NET 8 WEB API JWT Y ANGULAR 17 AUTHORIZACION\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "E:\\WorkSpaceAD\\YOUTUBE\\124 NET 8 WEB API JWT Y ANGULAR 17 AUTHORIZACION\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T14:06:57.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
